@@ -1,1 +1,1 @@
-https://github.com/Rv-Trees/RvClang/releases/download/RvClang-19.0.0git-good_revision-release/RvClang-19.0.0git-good_revision.tar.gz
+https://github.com/Rv-Trees/RvClang/releases/download/RvClang-20.0.0git-release/RvClang-20.0.0git.tar.gz
