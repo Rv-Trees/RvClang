@@ -17,7 +17,7 @@ old_library='libgprofng.a'
 inherited_linker_flags=' -pthread'
 
 # Libraries that this one depends upon.
-dependency_libs=' '/home/rve/rvclang/x86_64-pc-linux-gnu/aarch64-linux-gnu/lib'/libopcodes.la '/home/rve/rvclang/x86_64-pc-linux-gnu/aarch64-linux-gnu/lib'/libbfd.la -lz -lzstd -L/home/rve/tc-build/build/binutils/aarch64/libiberty -liberty -lpthread -ldl '/usr/local/lib/../lib64'/libstdc++.la'
+dependency_libs=' '/home/rve/tc-build/RvClang/x86_64-pc-linux-gnu/aarch64-linux-gnu/lib'/libopcodes.la '/home/rve/tc-build/RvClang/x86_64-pc-linux-gnu/aarch64-linux-gnu/lib'/libbfd.la -lz -lzstd -L/home/rve/tc-build/build/binutils/aarch64/libiberty -liberty -lpthread -ldl '/usr/local/lib/../lib64'/libstdc++.la'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''
@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/home/rve/rvclang/lib'
+libdir='/home/rve/tc-build/RvClang/lib'
