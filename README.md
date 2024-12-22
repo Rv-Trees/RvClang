@@ -1,1 +1,3 @@
-# RvClang v19.1.5
+# RvClang
+- LLVM 19.1.6
+- Binutils 2.43.0
